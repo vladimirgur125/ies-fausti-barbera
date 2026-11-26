@@ -20,6 +20,21 @@ _Programación en Python con Thonny_
 * Enrique
 * Pilar
 * Borja
+* Toni
+* Raul
+* Inma
+* Noelia
+
+### Asignaturas
+* AW
+* DASP
+* IPEII
+* Programación
+* Proyecto
+* SASP
+* SI
+* SOX
+* SR
 
 [AULES](https://portal.edu.gva.es/aules/es/inicio/) - Acceso a aules
 
