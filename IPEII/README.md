@@ -1,5 +1,5 @@
 # Itinerari personal per a l'ocupabilitat II
-> És un mòdul de Formació Professional que prepara l'alumnat per a la inserció laboral, la creació de marca personal i l'emprenedoria.
+> Es un módulo de Formación Profesional que prepara al alumnado para la inserción laboral, la creación de marca personal y el emprendimiento.
 
 ## Profesor
 **Noelia**
