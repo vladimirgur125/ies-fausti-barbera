@@ -22,3 +22,5 @@ _Programación en Python con Thonny_
 * Borja
 
 [AULES](https://portal.edu.gva.es/aules/es/inicio/) - Acceso a aules
+
+![image alt](https://github.com/vladimirgur125/ies-fausti-barbera/blob/554e9b259026ac19aeffd996475b64c5055a37af/cropped-logoinstituto.jpeg)
