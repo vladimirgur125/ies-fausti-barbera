@@ -1,20 +1,12 @@
 # ies-fausti-barbera
-Repositorio de prueba para subir cosas de 2º SMR
+### Hecho por Dafne, Valery y Vladimir
+_**Repositorio del curso 2º SMR**_
 
 ## Contenido del repositorio
 Este repositorio contendrá la información del ciclo de **2º SMR**
 
-```
-Esto es un comentario
-```
 
-### Tercer nivel para titulos
-
-> Esto no es un quote
-
-### Python
-
-_Programación en Python con Thonny_
+>  CL. VICENTE LIS BARONA Nº - S/N 46970 (ALAQUÀS)
 
 ### Docentes
 * Enrique
