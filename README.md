@@ -1,4 +1,6 @@
 # ies-fausti-barbera
+
+>  CL. VICENTE LIS BARONA Nº - S/N 46970 (ALAQUÀS)
 ### Hecho por Dafne, Valery y Vladimir
 _**Repositorio del curso 2º SMR**_
 
@@ -6,7 +8,6 @@ _**Repositorio del curso 2º SMR**_
 Este repositorio contendrá la información del ciclo de **2º SMR**
 
 
->  CL. VICENTE LIS BARONA Nº - S/N 46970 (ALAQUÀS)
 
 ### Docentes
 * Enrique
